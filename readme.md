@@ -448,8 +448,4 @@ Aplicações: SolarGo (Bluetooth) · SEMS Portal (Cloud)
 
 ---
 
-## Desenvolvido por
-
-Gabriel — Turma 1CCP  
-Professor: Lucas Moreira  
-EV Challenge 2026 — GoodWe
+## Obrigado!
