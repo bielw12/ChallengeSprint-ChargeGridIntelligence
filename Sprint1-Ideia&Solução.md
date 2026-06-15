@@ -1,7 +1,7 @@
 # CHARGEGRID INTELLIGENCE
 ### Mini eletroposto inteligente com IA, pagamentos digitais e rede de franqueados
 ### Proposta integrada para protótipo, MVP e expansão comercial
- 
+  
 ---
  
 | Tecnologia | Negócio | Escala |
